@@ -1,0 +1,20 @@
+{
+    "name": "example-custom-server",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite dev",
+        "build": "vite build"
+    },
+    "dependencies": {
+        "ws": "^8.13.0"
+    },
+    "devDependencies": {
+        "@types/node": "^18.15.10",
+        "@types/ws": "^8.5.4",
+        "typescript": "^5.0.2",
+        "vite": "^4.2.1",
+        "vite-node": "^0.29.7",
+        "vite-server": "file:../../"
+    }
+}
