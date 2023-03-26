@@ -5,7 +5,7 @@
     "author": "David Plugge",
     "repository": {
         "type": "git",
-        "url": "https://github.com/david-plugge/typed-formdata"
+        "url": "https://github.com/david-plugge/vite-server"
     },
     "license": "MIT",
     "keywords": [
